@@ -1,0 +1,10 @@
+Line 20: Class MSComDlg.CommonDialog of control cd1 was not a loaded control class.
+Line 81: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel1 was not a loaded control class.
+Line 98: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel2 was not a loaded control class.
+Line 151: Class ACTIVESKINLibCtl.Skin of control Skin1 was not a loaded control class.
+Line 23: The property name _ExtentX in cd1 is invalid.
+Line 24: The property name _ExtentY in cd1 is invalid.
+Line 25: The property name _Version in cd1 is invalid.
+Line 84: The property name OleObjectBlob in SkinLabel1 is invalid.
+Line 101: The property name OleObjectBlob in SkinLabel2 is invalid.
+Line 153: The property name OleObjectBlob in Skin1 is invalid.

@@ -1,0 +1,5 @@
+Line 78: Class ACTIVESKINLibCtl.Skin of control Skin1 was not a loaded control class.
+Line 83: Class MSDBGrid.DBGrid of control DBGrid1 was not a loaded control class.
+Line 80: The property name OleObjectBlob in Skin1 is invalid.
+Line 84: The property name Bindings in DBGrid1 is invalid.
+Line 87: The property name OleObjectBlob in DBGrid1 is invalid.

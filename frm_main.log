@@ -1,0 +1,18 @@
+Line 54: Class ClockS.HatemClocks of control HatemClocks1 was not a loaded control class.
+Line 84: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel1 was not a loaded control class.
+Line 92: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel2 was not a loaded control class.
+Line 100: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel3 was not a loaded control class.
+Line 275: Class ACTIVESKINLibCtl.Skin of control Skin1 was not a loaded control class.
+Line 60: The property name _ExtentX in HatemClocks1 is invalid.
+Line 61: The property name _ExtentY in HatemClocks1 is invalid.
+Line 62: The property name SecondArmColor in HatemClocks1 is invalid.
+Line 63: The property name SecondArmColor in HatemClocks1 is invalid.
+Line 64: The property name MinuteArmColor in HatemClocks1 is invalid.
+Line 65: The property name HourArmColor in HatemClocks1 is invalid.
+Line 67: The property name NumberColor in HatemClocks1 is invalid.
+Line 68: The property name CaptionColor in HatemClocks1 is invalid.
+Line 69: The property name Caption in HatemClocks1 is invalid.
+Line 87: The property name OleObjectBlob in SkinLabel1 is invalid.
+Line 95: The property name OleObjectBlob in SkinLabel2 is invalid.
+Line 103: The property name OleObjectBlob in SkinLabel3 is invalid.
+Line 277: The property name OleObjectBlob in Skin1 is invalid.

@@ -1,0 +1,6 @@
+Line 19: Class MSComctlLib.ProgressBar of control bar was not a loaded control class.
+Line 30: Class ACTIVESKINLibCtl.Skin of control Skin1 was not a loaded control class.
+Line 25: The property name _ExtentX in bar is invalid.
+Line 26: The property name _ExtentY in bar is invalid.
+Line 27: The property name _Version in bar is invalid.
+Line 32: The property name OleObjectBlob in Skin1 is invalid.
